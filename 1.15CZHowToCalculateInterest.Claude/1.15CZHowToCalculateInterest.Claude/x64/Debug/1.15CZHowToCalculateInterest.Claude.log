@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.15CZHowToCalculateInterest.Claude\1.15CZHowToCalculateInterest.Claude\main.c(35,13): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.15CZHowToCalculateInterest.Claude\1.15CZHowToCalculateInterest.Claude\main.c(41,13): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.15CZHowToCalculateInterest.Claude\1.15CZHowToCalculateInterest.Claude\main.c(46,13): warning C4305: '*=': truncation from 'double' to 'float'
+  1.15CZHowToCalculateInterest.Claude.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.15CZHowToCalculateInterest.Claude\x64\Debug\1.15CZHowToCalculateInterest.Claude.exe

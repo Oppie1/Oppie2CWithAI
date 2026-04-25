@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.23CZShorthandIfElse.Claude\1.23CZShorthandIfElse.Claude\main.cpp(20,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.23CZShorthandIfElse.Claude\1.23CZShorthandIfElse.Claude\main.cpp(20,10):
+      this argument is used as a buffer size
+  
+  1.23CZShorthandIfElse.Claude.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.23CZShorthandIfElse.Claude\x64\Debug\1.23CZShorthandIfElse.Claude.exe

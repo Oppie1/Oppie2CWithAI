@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.27CZForLoop.Claude\1.27CZForLoop.Claude\main.c(10,6): warning C4101: 'peanuts': unreferenced local variable
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.27CZForLoop.Claude\1.27CZForLoop.Claude\main.c(11,6): warning C4101: 'soybeans': unreferenced local variable
+  1.27CZForLoop.Claude.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.27CZForLoop.Claude\x64\Debug\1.27CZForLoop.Claude.exe

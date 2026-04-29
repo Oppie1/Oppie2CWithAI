@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.33.1CChallenge.Claude\1.33.1CChallenge.Claude\main.c(23,10): warning C4477: 'scanf_s' : format string '%9s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.33.1CChallenge.Claude\1.33.1CChallenge.Claude\main.c(23,10):
+      this argument is used as a buffer size
+  
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.33.1CChallenge.Claude\1.33.1CChallenge.Claude\main.c(27,22): warning C4013: 'strlen' undefined; assuming extern returning int
+  1.33.1CChallenge.Claude.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.33.1CChallenge.Claude\x64\Debug\1.33.1CChallenge.Claude.exe

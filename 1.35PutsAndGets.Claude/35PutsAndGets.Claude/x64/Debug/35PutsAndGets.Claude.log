@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\meC\35PutsAndGets.Claude\35PutsAndGets.Claude\main.c(28,2): warning C4013: 'gets' undefined; assuming extern returning int
+  35PutsAndGets.Claude.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\meC\35PutsAndGets.Claude\x64\Debug\35PutsAndGets.Claude.exe

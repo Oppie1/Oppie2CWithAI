@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.36CZRoundingNumbers.Claude\1.36CZRoundingNumbers.Claude\main.c(17,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.36CZRoundingNumbers.Claude\1.36CZRoundingNumbers.Claude\main.c(18,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  1.36CZRoundingNumbers.Claude.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.36CZRoundingNumbers.Claude\x64\Debug\1.36CZRoundingNumbers.Claude.exe

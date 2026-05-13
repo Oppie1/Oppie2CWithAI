@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.47CZTheHeap.Claude\1.47CZTheHeap.Claude\main.c(23,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.47CZTheHeap.Claude\1.47CZTheHeap.Claude\main.c(23,9):
+      consider using '%lld' in the format string
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.47CZTheHeap.Claude\1.47CZTheHeap.Claude\main.c(23,9):
+      consider using '%Id' in the format string
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.47CZTheHeap.Claude\1.47CZTheHeap.Claude\main.c(23,9):
+      consider using '%I64d' in the format string
+  
+  1.47CZTheHeap.Claude.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\Claude\1.47CZTheHeap.Claude\x64\Debug\1.47CZTheHeap.Claude.exe
